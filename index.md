@@ -25,3 +25,36 @@ DOCKER
 1. https://hub.docker.com/
 2. https://stack.desenvolvedor.expert/appendix/docker/ (livro que trata das questões mais básicas do Docker)
 3. https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/ (Os comandos mais utilizados)
+
+NGINX
+
+1. http://blog.ti.lemaf.ufla.br/2016/07/29/desvendando-o-nginx-parte-1/
+
+PHP
+
+1. https://www.php-fig.org/
+2. http://br.phptherightway.com/
+3. https://www.php.net/manual/pt_BR/index.php
+4. https://www.php.net/manual/pt_BR/indexes.examples.php (Lista de Exemplos)
+5. https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k (Curso de PHP para iniciantes - GUANABARA)
+6. https://packagist.org/
+7. https://www.youtube.com/playlist?list=PLzfUA2OOnk-j_j5PACbKmMr690I8DYSKl (Estudos de PHP com o Prof. Iury Gomes do IFTO)
+8. https://www.php.net/releases/8.0/en.php (PHP 8.0)
+
+BANCO DE DADOS
+
+1. https://www.generatedata.com/ (Gerador de valores e dados fake para testes com bancos de dados)
+
+GITFLOW
+
+1. https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+2. https://www.youtube.com/watch?v=wzxBR4pOTTs (git flow na prática com Angelo Luz
+3. https://zellwk.com/blog/git-flow/#:~:text=Ending%20the%20release,back%2Dmerge%20master%20to%20develop.
+
+DETACHED HEAD
+
+1. https://www.cloudmotion.com.br/blog/2020/01/15/detached-head-no-git/
+
+HTTP
+
+1. https://tools.ietf.org/html/rfc2616#page-27 (Hypertext Transfer Protocol -- HTTP/1.1)
