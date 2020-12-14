@@ -1,3 +1,9 @@
+## WEB DESIGN
+_(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
+
+1. https://pt2.slideshare.net/heraldo100/web-design-responsivo-e-adaptativo-html5css3 - Web Design RESPONSIVO e ADAPTATIVO
+2. https://www.maujor.com/tutorial/acessibilidade-na-html5.php - ACESSIBILIDADE
+
 ## PARA ÍCONES, FIGURAS E IMAGENS:
 
 1. https://cdn.jsdelivr.net/npm/simple-icons@3/icons/
@@ -62,4 +68,8 @@
 ## CSS
 
 1. https://www.w3schools.com/css/ (css TUTORIAIS)
-2. https://learnlayout.com/inline-block.html (explicando flutuação DIV)
+2. https://www.w3schools.com/css/css_positioning.asp (Posicionamento DIV)
+3. https://learnlayout.com/inline-block.html (explicando flutuação DIV)
+4. https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow (MDN Web Docs :text-shadow e outros assuntos)
+5. http://cssmenumaker.com/css-menus (Menus prontos em CSS)
+6. https://www.devmedia.com.br/utilizando-css-media-queries/27085 (Utilizando Media Queries)
