@@ -1,4 +1,5 @@
 ## WEB DESIGN
+
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
 
 1. https://pt2.slideshare.net/heraldo100/web-design-responsivo-e-adaptativo-html5css3 - Web Design RESPONSIVO e ADAPTATIVO
@@ -73,3 +74,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 4. https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow (MDN Web Docs :text-shadow e outros assuntos)
 5. http://cssmenumaker.com/css-menus (Menus prontos em CSS)
 6. https://www.devmedia.com.br/utilizando-css-media-queries/27085 (Utilizando Media Queries)
+
+## DESAFIOS
+
+1. https://www.devchallenge.com.br/ (Muito legal, para enfrentar alguns challenges aqui...)
+2. https://github.com/felipefialho/frontend-challenges (Desafios solicitados por empresas)
+3. https://github.com/florinpop17/app-ideas (Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação.)
+4. https://github.com/codigofalado/desafio333 (#Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas)
