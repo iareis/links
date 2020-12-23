@@ -17,6 +17,9 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 4. https://feathericons.com/
 5. https://undraw.co/illustrations (este tem ótimas imagens e ainda é possível alterar a cor base de acordo com o projeto que estiver desenvolvendo).
 6. https://simpleicons.org/
+7. https://icons8.com.br/icons
+8. https://www.iconfinder.com/
+9. https://fontawesome.com/icons?d=gallery
 
 ## DEFINIÇÃO DE CORES:
 
