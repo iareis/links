@@ -85,3 +85,11 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 2. https://github.com/felipefialho/frontend-challenges (Desafios solicitados por empresas)
 3. https://github.com/florinpop17/app-ideas (Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação.)
 4. https://github.com/codigofalado/desafio333 (#Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas)
+
+## MARKDOWN
+
+1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
+
+## AUXILIARES
+
+1. https://www.regexpal.com/ (Bom para tabular alguns formatutos, fórmulas e números)
