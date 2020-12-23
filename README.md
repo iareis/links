@@ -96,3 +96,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## AUXILIARES
 
 1. https://www.regexpal.com/ (Bom para tabular alguns formatutos, fórmulas e números)
+
+## EXTENSÕES PARA GOOGLE CHROME
+
+1. https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR (A extensão permite visualizar seu repositório no GitHub, por meio de uma aba lateral, estilo árvore de pastas do Windows.)
