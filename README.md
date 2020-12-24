@@ -99,6 +99,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## MARKDOWN
 
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
+2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
 
 ## AUXILIARES
 
