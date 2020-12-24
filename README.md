@@ -2,6 +2,15 @@
 
 _Links interessantes de serem lembrados...!_
 
+## README.md
+
+1. https://github.com/nandodevs/Awesome-Profile-README-templates (Possui muitos exemplos e modelos personalizados de README.md para seu perfil)
+
+## MARKDOWN
+
+1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
+2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
+
 ## WEB DESIGN
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
@@ -95,11 +104,6 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 2. https://github.com/felipefialho/frontend-challenges (Desafios solicitados por empresas)
 3. https://github.com/florinpop17/app-ideas (Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação.)
 4. https://github.com/codigofalado/desafio333 (#Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas)
-
-## MARKDOWN
-
-1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
-2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
 
 ## AUXILIARES
 
