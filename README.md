@@ -37,9 +37,14 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 15. https://libreshot.com/ (livre de direitos autorais, download direto sem necessidade de criar conta e sem marca d'água)
 16. https://br.pinterest.com/
 
-## DEFINIÇÃO DE CORES:
+## DEFINIÇÃO DE CORES (paletas de cores):
 
 1. https://www.w3schools.com/colors/colors_picker.asp
+2. https://www.palettable.io/
+3. https://coolors.co/
+4. https://color.adobe.com/pt/create/color-wheel
+5. https://colourco.de/
+6. https://colorhunt.co/
 
 ## ELEMENTOS E ATRIBUTOS PARA HTML
 
