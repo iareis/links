@@ -117,3 +117,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## EXTENSÕES PARA GOOGLE CHROME
 
 1. https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR (A extensão permite visualizar seu repositório no GitHub, por meio de uma aba lateral, estilo árvore de pastas do Windows.) Detalhes no site dele: https://www.octotree.io/download
+
+## APRENDER JOGANDO
+
+1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
+2. https://code.org/minecraft (baseado no jogo Minecraft e utilizando o modo de programar do Scratch.)
