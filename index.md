@@ -1,3 +1,7 @@
+## LINKS
+
+_Links interessantes de serem lembrados...!_
+
 ## WEB DESIGN
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
@@ -10,9 +14,19 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 1. https://cdn.jsdelivr.net/npm/simple-icons@3/icons/
 2. https://www.flaticon.com/premium-icon/agile_2974316?term=development&page=1&position=4
 3. https://ionicons.com/
-4. https://feathericons.com/
-5. https://undraw.co/illustrations (este tem ótimas imagens e ainda é possível alterar a cor base de acordo com o projeto que estiver desenvolvendo).
-6. https://simpleicons.org/
+4. https://www.freepik.com/home (banco de imagens, vetores, brush p/ illustrator. É possível escolher o tipo de licença e o site de procedência.)
+5. https://feathericons.com/
+6. https://stocksnap.io/
+7. https://undraw.co/illustrations (este tem ótimas imagens e ainda é possível alterar a cor base de acordo com o projeto que estiver desenvolvendo).
+8. https://simpleicons.org/
+9. https://www.pexels.com/pt-br/
+10. https://icons8.com.br/icons
+11. https://www.rgbstock.com/ (imagens, planos de fundo, texturas e filtros.)
+12. https://www.iconfinder.com/
+13. https://www.reshot.com/ (imagens de alta resoluções, templates para vídeos, efeitos sonoros)
+14. https://fontawesome.com/icons?d=gallery
+15. https://libreshot.com/ (livre de direitos autorais, download direto sem necessidade de criar conta e sem marca d'água)
+16. https://br.pinterest.com/
 
 ## DEFINIÇÃO DE CORES:
 
@@ -81,3 +95,15 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 2. https://github.com/felipefialho/frontend-challenges (Desafios solicitados por empresas)
 3. https://github.com/florinpop17/app-ideas (Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação.)
 4. https://github.com/codigofalado/desafio333 (#Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas)
+
+## MARKDOWN
+
+1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
+
+## AUXILIARES
+
+1. https://www.regexpal.com/ (Bom para tabular alguns formatutos, fórmulas e números)
+
+## EXTENSÕES PARA GOOGLE CHROME
+
+1. https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR (A extensão permite visualizar seu repositório no GitHub, por meio de uma aba lateral, estilo árvore de pastas do Windows.) Detalhes no site dele: https://www.octotree.io/download
