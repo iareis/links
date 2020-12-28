@@ -89,6 +89,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## OCTOCAT
 
 1. https://myoctocat.com/ - Crie um Octocat do bigode da ponta à cauda.
+2. https://octodex.github.com/ - Veja os que o pessoal cria.
+3. https://br.pinterest.com/hellaogouveia/octocat/ - Veja alguns em trajes bem conhecidos.
 
 ## DETACHED HEAD
 
