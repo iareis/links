@@ -86,6 +86,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 2. https://www.youtube.com/watch?v=wzxBR4pOTTs (git flow na prática com Angelo Luz
 3. https://zellwk.com/blog/git-flow/#:~:text=Ending%20the%20release,back%2Dmerge%20master%20to%20develop.
 
+## OCTOCAT
+
+1. https://myoctocat.com/ - Crie um Octocat do bigode da ponta à cauda.
+
 ## DETACHED HEAD
 
 1. https://www.cloudmotion.com.br/blog/2020/01/15/detached-head-no-git/
