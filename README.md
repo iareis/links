@@ -122,3 +122,12 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
 2. https://code.org/minecraft (baseado no jogo Minecraft e utilizando o modo de programar do Scratch.)
+
+## JAVASCRIPT
+
+1. https://scotch.io/tag/javascript - pequenos projetos no formato de tutoriais, utilizando Node e Angular
+2. https://www.upwork.com/signup/ - site internacional de freelancer 
+3. http://youmightnotneedjquery.com/ - quer saber o que se passa nos bastidores do jQuery sem ter que olhar o código fonte (o que recomendo).
+4. https://www.mongodb.com/cloud - vai querer experimentar esse banco de dados? O site possui 15 min de exercícios interativos e com respostas.
+5. http://reactivex.io/learnrx/ - Site interativo. Teste seu domínio dos métodos filter, map, reduze, zip, forEach e outros, avançando gradualmente no nível de dificuldade.
+6. https://egghead.io/ - Tutoriais curtos e focados para o desenvolvimento Front-End.
