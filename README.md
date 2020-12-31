@@ -138,3 +138,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 4. https://www.mongodb.com/cloud - vai querer experimentar esse banco de dados? O site possui 15 min de exercícios interativos e com respostas.
 5. http://reactivex.io/learnrx/ - Site interativo. Teste seu domínio dos métodos filter, map, reduze, zip, forEach e outros, avançando gradualmente no nível de dificuldade.
 6. https://egghead.io/ - Tutoriais curtos e focados para o desenvolvimento Front-End.
+
+## MATERIAL PARA ESTUDO
+
+1. https://github.com/EbookFoundation/free-programming-books - Muitos livros gratuitos de programação em diversos idiomas (**incluindo português**). Separados por tópicos.
+2. https://butecotecnologico.com.br/livros-gratuitos-data-science-setembro-2020/
