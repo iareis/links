@@ -1,6 +1,6 @@
 ## LINKS
 
-_Links interessantes de serem lembrados...!_
+O intuito é recolher _Links interessantes de serem lembrados...!_
 
 ## README.md
 
