@@ -129,6 +129,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
 2. https://code.org/minecraft (baseado no jogo Minecraft e utilizando o modo de programar do Scratch.)
+3. https://mastery.games/flexboxzombies Você é um guerreiro e deve derrotar zumbis com ordens que você escreve no código.
 
 ## JAVASCRIPT
 
