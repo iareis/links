@@ -150,3 +150,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://github.com/EbookFoundation/free-programming-books - Muitos livros gratuitos de programação em diversos idiomas (**incluindo português**). Separados por tópicos.
 2. https://butecotecnologico.com.br/livros-gratuitos-data-science-setembro-2020/
+
+## API
+
+1. https://github.com/public-apis/public-apis APIs gratuitas para usar em projetos e aplicativos. Tópicos diversos como negócios, anime, animais, notícias, finanças, jogos e outros
