@@ -154,3 +154,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## API
 
 1. https://github.com/public-apis/public-apis APIs gratuitas para usar em projetos e aplicativos. Tópicos diversos como negócios, anime, animais, notícias, finanças, jogos e outros
+
+## LEGISLAÇÃO
+
+1.  http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm - Lei Geral de Proteção de Dados - LGPD - **Lei nº 13.709, de 14 de agosto de 2018**
+2.  https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-pessoais-lgpd - Entenda sobre Dados Pessoais.
+
+
