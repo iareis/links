@@ -160,4 +160,9 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 1.  http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm - Lei Geral de Proteção de Dados - LGPD - **Lei nº 13.709, de 14 de agosto de 2018**
 2.  https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-pessoais-lgpd - Entenda sobre Dados Pessoais.
 
+## Comunidades de Desenvolvimento de Software
+__ótima oportunidade para se atualizar em relação às demandas do mercado, ficar por dentro das novas tendências da tecnologia e conhecer pessoas novas que trabalham na área. (by Davi Pereira)__
 
+1. http://railsgirls.com/ Organiza eventos pelo mundo no intuito de incentivar mulheres a entrarem no ramo tecnológico. Fornecer ferramentas e uma comunidade que proporciona experiências no mundo da tecnologia. Nasceu na Finlândia, mas hoje em dia é uma comunidade global de voluntários sem fins lucrativos.
+2. https://phpsp.org.br/quem-e-a-comunidade/ Reúne profissionais interessados em estudar sobre PHP no estado de São Paulo. Promove encontros regulares com a intenção de discutir sobre a linguagem e outros assuntos pertinentes ao ramo de tecnologia.
+3. https://python.org.br/comunidades-locais/ A Associação Python Brasil (APyB) foi formada em abril de 2007 com a meta de apoiar as comunidades relacionadas à linguagem Python e suas tecnologias derivadas.
