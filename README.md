@@ -5,6 +5,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 ## README.md
 
 1. https://github.com/nandodevs/Awesome-Profile-README-templates (Possui muitos exemplos e modelos personalizados de README.md para seu perfil)
+2. https://github.com/rahuldkjain/github-profile-readme-generator -  GERADOR DE README 
 
 ## MARKDOWN
 
