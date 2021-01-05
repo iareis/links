@@ -7,11 +7,14 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. https://github.com/nandodevs/Awesome-Profile-README-templates (Possui muitos exemplos e modelos personalizados de README.md para seu perfil)
 2. https://github.com/rahuldkjain/github-profile-readme-generator -  GERADOR DE README 
 3. https://github.com/abhisheknaiidu/awesome-github-profile-readme - Link para quem quiser personalizar ainda mais
+4. https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ - Como fazer um bom README?
+5. https://www.makeareadme.com/
 
 ## MARKDOWN
 
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
 2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
+3. https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open (Guia Básico)
 
 ## WEB DESIGN
 
