@@ -141,6 +141,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 3. https://mastery.games/flexboxzombies Você é um guerreiro e deve derrotar zumbis com ordens que você escreve no código.
 4. https://store.steampowered.com/app/619150/while_True_learn/ Entenda seu **GATO** neste jogo de simulação/quebra-cabeça: aprendizado de máquina, redes neurais, big data e IA. 
 5. https://store.steampowered.com/app/375820/Human_Resource_Machine/ Crie programas para que o trabalhador de escritório resolva os desafios. É um puzzle de tarefas que devem ser automatizadas.
+6. https://flukeout.github.io/ (O CSS Dinner é um jogo simples, mas muito bom para treinar o uso de seletores)
 
 ## JAVASCRIPT
 
