@@ -88,8 +88,9 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## GITFLOW
 
 1. https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-2. https://www.youtube.com/watch?v=wzxBR4pOTTs (git flow na prática com Angelo Luz
+2. https://www.youtube.com/watch?v=wzxBR4pOTTs (git flow na prática com Angelo Luz)
 3. https://zellwk.com/blog/git-flow/#:~:text=Ending%20the%20release,back%2Dmerge%20master%20to%20develop
+4. https://www.youtube.com/watch?v=rExSb3tcHe4 (discussão bem interessante com Rodrigo Branas sobre o uso do gitflow)
 
 ## .GITIGNORE
 
