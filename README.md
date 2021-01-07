@@ -85,6 +85,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://www.generatedata.com/ (Gerador de valores e dados fake para testes com bancos de dados)
 
+## COMMITS
+
+1. https://www.conventionalcommits.org/pt-br/v1.0.0/ (ensina de um jeito legal, a escrever as mensagens dos seus commits)
+
 ## GITFLOW
 
 1. https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
