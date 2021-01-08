@@ -81,6 +81,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 7. https://www.youtube.com/playlist?list=PLzfUA2OOnk-j_j5PACbKmMr690I8DYSKl (Estudos de PHP com o Prof. Iury Gomes do IFTO)
 8. https://www.php.net/releases/8.0/en.php (PHP 8.0)
 
+## JAVA
+
+1. https://www.notion.so/Implementando-Collections-e-Streams-com-Java-d9d7b933e32a44a6b64989709c70546c (Resumo do curso de JAVA completo, feito no Notion pelo Elton Lima)
+
 ## BANCO DE DADOS
 
 1. https://www.generatedata.com/ (Gerador de valores e dados fake para testes com bancos de dados)
