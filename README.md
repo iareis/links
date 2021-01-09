@@ -181,3 +181,12 @@ __ótima oportunidade para se atualizar em relação às demandas do mercado, fi
 1. http://railsgirls.com/ Organiza eventos pelo mundo no intuito de incentivar mulheres a entrarem no ramo tecnológico. Fornecer ferramentas e uma comunidade que proporciona experiências no mundo da tecnologia. Nasceu na Finlândia, mas hoje em dia é uma comunidade global de voluntários sem fins lucrativos.
 2. https://phpsp.org.br/quem-e-a-comunidade/ Reúne profissionais interessados em estudar sobre PHP no estado de São Paulo. Promove encontros regulares com a intenção de discutir sobre a linguagem e outros assuntos pertinentes ao ramo de tecnologia.
 3. https://python.org.br/comunidades-locais/ A Associação Python Brasil (APyB) foi formada em abril de 2007 com a meta de apoiar as comunidades relacionadas à linguagem Python e suas tecnologias derivadas.
+
+## Conhecimento Basico Necessário
+
+1. https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6 (Guia para ser DEV Back-End 2021 por Glaucia Lemos).
+2. https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted (o site StackOverflow Developer Survey com sua estimativa 2020 das linguagens mais importantes no ano)
+3. https://roadmap.sh/backend (o site roadmap.sh atualiza um guia do que precisamos saber para ser uma Pessoa Desenvolvedora Back-End.)
+
+
+
