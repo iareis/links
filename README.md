@@ -142,6 +142,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## EXTENSÕES PARA GOOGLE CHROME
 
 1. https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR (A extensão permite visualizar seu repositório no GitHub, por meio de uma aba lateral, estilo árvore de pastas do Windows.) Detalhes no site dele: https://www.octotree.io/download
+2. https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related?hl=en (Colorzilla é um conta-gotas que exibe a cor do elemento que seu mouse está em cima.)
 
 ## APRENDER JOGANDO
 
