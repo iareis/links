@@ -143,6 +143,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR (A extensão permite visualizar seu repositório no GitHub, por meio de uma aba lateral, estilo árvore de pastas do Windows.) Detalhes no site dele: https://www.octotree.io/download
 2. https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related?hl=en (Colorzilla é um conta-gotas que exibe a cor do elemento que seu mouse está em cima.)
+3. https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related?hl=pt-BR (Wappalyzer: exibe todas as tecnologias que foram utilizadas no desenvolvimento do site!)
+4. https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=pt-BR (Spectrum: Testa instantaneamente sua página da web com diferentes tipos de deficiência visual de cores)
 
 ## APRENDER JOGANDO
 
