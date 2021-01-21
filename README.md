@@ -138,6 +138,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 ## AUXILIARES
 
 1. https://www.regexpal.com/ (Bom para tabular alguns formatutos, fórmulas e números)
+2. https://viacep.com.br/ ( webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil)
+3. https://versusutil.com/ (Uma ferramenta simples para encontrar alternativas)
 
 ## EXTENSÕES PARA GOOGLE CHROME
 
