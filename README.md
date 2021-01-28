@@ -15,6 +15,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
 2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
 3. https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open (Guia Básico)
+4. https://www.markdownguide.org/extended-syntax/ (Noções da sintaxe extendida)
 
 ## WEB DESIGN
 
