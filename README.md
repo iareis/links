@@ -1,8 +1,8 @@
 ## LINKS
 
-O intuito é recolher _Links interessantes de serem lembrados...!_
+O intuito é recolher _Links interessantes de serem lembrados...!_  
 
-## README.md
+## README.md 
 
 1. https://github.com/nandodevs/Awesome-Profile-README-templates (Possui muitos exemplos e modelos personalizados de README.md para seu perfil)
 2. https://github.com/rahuldkjain/github-profile-readme-generator -  GERADOR DE README 
@@ -10,14 +10,14 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 4. https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ - Como fazer um bom README?
 5. https://www.makeareadme.com/
 
-## MARKDOWN
+## MARKDOWN 
 
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
 2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
 3. https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open (Guia Básico)
 4. https://www.markdownguide.org/extended-syntax/ (Noções da sintaxe extendida)
 
-## WEB DESIGN
+## WEB DESIGN 
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
 
