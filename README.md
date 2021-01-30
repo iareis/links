@@ -199,5 +199,12 @@ __ótima oportunidade para se atualizar em relação às demandas do mercado, fi
 2. https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted (o site StackOverflow Developer Survey com sua estimativa 2020 das linguagens mais importantes no ano)
 3. https://roadmap.sh/backend (o site roadmap.sh atualiza um guia do que precisamos saber para ser uma Pessoa Desenvolvedora Back-End.)
 
+## CC50:
+
+1. https://cc50.estudarfora.org.br/ (Acesse a versão totalmente gratuita e em português deste curso, que é um dos mais procurados de Harvard) 
+2. https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/08/03/cc50-cs50-curso-harvard-esta-disponivel-de-graca-e-em-portugues.htm (o curso mais popular da universidade Harvard, comandado pelo professor David Malan, o CS50 é um curso de introdução à ciência da computação.)
+3. https://cs50.harvard.edu/x/2020/certificate/#:~:text=David%20J.%20Malanmalan@harvard.edu (CS50 Certificate: conseguindo uma pontuação de pelo menos 70% em cada um dos conjuntos de problemas e projeto final deste curso, você será elegível para um Certificado CS50 grátis).
+4. https://www.youtube.com/watch?v=elIl48sZ3rA (Filipe Deschamps fala sobre alguns cursos, entre eles o CC50)
+
 
 
