@@ -24,6 +24,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 1. https://pt2.slideshare.net/heraldo100/web-design-responsivo-e-adaptativo-html5css3 - Web Design RESPONSIVO e ADAPTATIVO
 2. https://www.maujor.com/tutorial/acessibilidade-na-html5.php - ACESSIBILIDADE
 
+## ACESSIBILIDADE:
+
+1. https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b (como projetar acessibilidade para pessoas com deficiências como cegueira, dislexia, autismo, TDAH, e surdez).
+
 ## PARA ÍCONES, FIGURAS E IMAGENS:
 
 1. https://cdn.jsdelivr.net/npm/simple-icons@3/icons/
