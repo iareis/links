@@ -1,23 +1,23 @@
 ## LINKS
 
-O intuito é recolher _Links interessantes de serem lembrados...!_  
+O intuito é recolher _Links interessantes de serem lembrados...!_
 
-## README.md 
+## README.md
 
 1. https://github.com/nandodevs/Awesome-Profile-README-templates (Possui muitos exemplos e modelos personalizados de README.md para seu perfil)
-2. https://github.com/rahuldkjain/github-profile-readme-generator -  GERADOR DE README 
+2. https://github.com/rahuldkjain/github-profile-readme-generator - GERADOR DE README
 3. https://github.com/abhisheknaiidu/awesome-github-profile-readme - Link para quem quiser personalizar ainda mais
 4. https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ - Como fazer um bom README?
 5. https://www.makeareadme.com/
 
-## MARKDOWN 
+## MARKDOWN
 
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
 2. https://pandao.github.io/editor.md/ (Editor online que permite visualizar em tempo real toda edição feita no arquivo x.md)
 3. https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open (Guia Básico)
 4. https://www.markdownguide.org/extended-syntax/ (Noções da sintaxe extendida)
 
-## WEB DESIGN 
+## WEB DESIGN
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
 
@@ -90,6 +90,10 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 1. https://www.notion.so/Implementando-Collections-e-Streams-com-Java-d9d7b933e32a44a6b64989709c70546c (Resumo do curso de JAVA completo, feito no Notion pelo Elton Lima)
 
+## C
+
+1. http://informatica.hsw.uol.com.br/programacao-em-c.htm (Como funciona a programação em C)
+
 ## BANCO DE DADOS
 
 1. https://www.generatedata.com/ (Gerador de valores e dados fake para testes com bancos de dados)
@@ -107,7 +111,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 ## .GITIGNORE
 
-1. https://github.com/github/gitignore Coleção de .gitignore para filtrar o que é carregado. 
+1. https://github.com/github/gitignore Coleção de .gitignore para filtrar o que é carregado.
 
 ## OCTOCAT
 
@@ -158,14 +162,14 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
 2. https://code.org/minecraft (baseado no jogo Minecraft e utilizando o modo de programar do Scratch.)
 3. https://mastery.games/flexboxzombies Você é um guerreiro e deve derrotar zumbis com ordens que você escreve no código.
-4. https://store.steampowered.com/app/619150/while_True_learn/ Entenda seu **GATO** neste jogo de simulação/quebra-cabeça: aprendizado de máquina, redes neurais, big data e IA. 
+4. https://store.steampowered.com/app/619150/while_True_learn/ Entenda seu **GATO** neste jogo de simulação/quebra-cabeça: aprendizado de máquina, redes neurais, big data e IA.
 5. https://store.steampowered.com/app/375820/Human_Resource_Machine/ Crie programas para que o trabalhador de escritório resolva os desafios. É um puzzle de tarefas que devem ser automatizadas.
 6. https://flukeout.github.io/ (O CSS Dinner é um jogo simples, mas muito bom para treinar o uso de seletores)
 
 ## JAVASCRIPT
 
 1. https://scotch.io/tag/javascript - pequenos projetos no formato de tutoriais, utilizando Node e Angular
-2. https://www.upwork.com/signup/ - site internacional de freelancer 
+2. https://www.upwork.com/signup/ - site internacional de freelancer
 3. http://youmightnotneedjquery.com/ - quer saber o que se passa nos bastidores do jQuery sem ter que olhar o código fonte (o que recomendo).
 4. https://www.mongodb.com/cloud - vai querer experimentar esse banco de dados? O site possui 15 min de exercícios interativos e com respostas.
 5. http://reactivex.io/learnrx/ - Site interativo. Teste seu domínio dos métodos filter, map, reduze, zip, forEach e outros, avançando gradualmente no nível de dificuldade.
@@ -187,7 +191,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 2.  https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-pessoais-lgpd - Entenda sobre Dados Pessoais.
 
 ## Comunidades de Desenvolvimento de Software
-__ótima oportunidade para se atualizar em relação às demandas do mercado, ficar por dentro das novas tendências da tecnologia e conhecer pessoas novas que trabalham na área. (by Davi Pereira)__
+
+**ótima oportunidade para se atualizar em relação às demandas do mercado, ficar por dentro das novas tendências da tecnologia e conhecer pessoas novas que trabalham na área. (by Davi Pereira)**
 
 1. http://railsgirls.com/ Organiza eventos pelo mundo no intuito de incentivar mulheres a entrarem no ramo tecnológico. Fornecer ferramentas e uma comunidade que proporciona experiências no mundo da tecnologia. Nasceu na Finlândia, mas hoje em dia é uma comunidade global de voluntários sem fins lucrativos.
 2. https://phpsp.org.br/quem-e-a-comunidade/ Reúne profissionais interessados em estudar sobre PHP no estado de São Paulo. Promove encontros regulares com a intenção de discutir sobre a linguagem e outros assuntos pertinentes ao ramo de tecnologia.
@@ -201,10 +206,7 @@ __ótima oportunidade para se atualizar em relação às demandas do mercado, fi
 
 ## CC50:
 
-1. https://cc50.estudarfora.org.br/ (Acesse a versão totalmente gratuita e em português deste curso, que é um dos mais procurados de Harvard) 
+1. https://cc50.estudarfora.org.br/ (Acesse a versão totalmente gratuita e em português deste curso, que é um dos mais procurados de Harvard)
 2. https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/08/03/cc50-cs50-curso-harvard-esta-disponivel-de-graca-e-em-portugues.htm (o curso mais popular da universidade Harvard, comandado pelo professor David Malan, o CS50 é um curso de introdução à ciência da computação.)
 3. https://cs50.harvard.edu/x/2020/certificate/#:~:text=David%20J.%20Malanmalan@harvard.edu (CS50 Certificate: conseguindo uma pontuação de pelo menos 70% em cada um dos conjuntos de problemas e projeto final deste curso, você será elegível para um Certificado CS50 grátis).
 4. https://www.youtube.com/watch?v=elIl48sZ3rA (Filipe Deschamps fala sobre alguns cursos, entre eles o CC50)
-
-
-
