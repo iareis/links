@@ -92,7 +92,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 
 ## C
 
-1. http://informatica.hsw.uol.com.br/programacao-em-c.htm (Como funciona a programação em C)
+1. http://fig.if.usp.br/~esdobay/c/c.pdf (guia para programação em linguagem C elaborado pelo Departamento de Física Geral - USP)
 
 ## BANCO DE DADOS
 
