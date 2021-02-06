@@ -136,6 +136,7 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 5. http://cssmenumaker.com/css-menus (Menus prontos em CSS)
 6. https://www.devmedia.com.br/utilizando-css-media-queries/27085 (Utilizando Media Queries)
 7. https://github.com/iareis/30diasDeCSS.git - Repositório GitHub da Milena Carecho. Desafio fazendo mini projetos diários utilizando HTML5 e CSS3.
+8. http://pt-br.html.net/tutorials/css/ (Tutorial CSS)
 
 ## DESAFIOS
 
