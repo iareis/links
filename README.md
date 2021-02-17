@@ -30,6 +30,8 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 ## C
 
 1. http://fig.if.usp.br/~esdobay/c/c.pdf (guia para programação em linguagem C elaborado pelo Departamento de Física Geral - USP)
+2. http://www.krsantoro.xpg.com.br/academico/extensao/Apostilas/introdevcpp/node29.html (Apostila do debugger GDB para C)
+
 
 ## CANAIS NO YOUTUBE
 
