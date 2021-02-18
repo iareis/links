@@ -152,6 +152,8 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 4. https://www.mongodb.com/cloud - vai querer experimentar esse banco de dados? O site possui 15 min de exercícios interativos e com respostas.
 5. http://reactivex.io/learnrx/ - Site interativo. Teste seu domínio dos métodos filter, map, reduze, zip, forEach e outros, avançando gradualmente no nível de dificuldade.
 6. https://egghead.io/ - Tutoriais curtos e focados para o desenvolvimento Front-End.
+7. http://www.javascript-tutorial.com.br/content-cat-1.html (Tutorial básico de Javascript)
+
 
 ## LEGISLAÇÃO
 1.  http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm - Lei Geral de Proteção de Dados - LGPD - **Lei nº 13.709, de 14 de agosto de 2018**
