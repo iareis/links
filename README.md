@@ -94,6 +94,12 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 2. https://stack.desenvolvedor.expert/appendix/docker/ (livro que trata das questões mais básicas do Docker)
 3. https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/ (Os comandos mais utilizados)
 
+## EDITORES DE CÓDIGO ONLINE
+_Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível utilizar estes editores online_
+
+1.[https://codepen.io/](CodePen - comunidade online para testar e apresentar trechos de código HTML, CSS e JavaScript criados pelo usuário em ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar fragmentos de código, chamados de "canetas", e testá-los.)
+2.[https://codesandbox.io/](CodeSandbox - editor de código online e ferramenta de prototipagem que agiliza a criação e o compartilhamento de aplicativos da web.)
+
 ## ELEMENTOS E ATRIBUTOS PARA HTML
 
 1. http://www.nce.ufrj.br/ginape/iga502/CursoHTML/conteudo/tabelas/thtd.htm (gostei muito da didática e imagens que exemplificam bem o uso de cada termo).
