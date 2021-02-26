@@ -22,6 +22,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. https://www.regexpal.com/ (Bom para tabular alguns formatutos, fórmulas e números)
 2. https://viacep.com.br/ ( webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil)
 3. https://versusutil.com/ (Uma ferramenta simples para encontrar alternativas)
+4. https://github.com/LorenzCK/OnTopReplica (OnTopReplica - permite uma “réplica” sempre visível em tempo real de uma janela de sua escolha, para Windows Vista, 7, 8 ou 10.)
 
 ## BANCO DE DADOS
 
