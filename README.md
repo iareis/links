@@ -1,4 +1,4 @@
-## LINKS
+# LINKS
 
 O intuito é recolher _Links interessantes de serem lembrados...!_
 
@@ -199,6 +199,10 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 6. https://packagist.org/
 7. https://www.youtube.com/playlist?list=PLzfUA2OOnk-j_j5PACbKmMr690I8DYSKl (Estudos de PHP com o Prof. Iury Gomes do IFTO)
 8. https://www.php.net/releases/8.0/en.php (PHP 8.0)
+
+## REACT
+
+1. https://www.youtube.com/watch?v=OqMk-mPs6Dw&feature=youtu.be (REACT - Tutorial: Salvar dados em seu aplicativo com localStorage e sessionStorage)
 
 ## README.md
 
