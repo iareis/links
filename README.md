@@ -8,6 +8,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 
 ## API
 1. https://github.com/public-apis/public-apis APIs gratuitas para usar em projetos e aplicativos. Tópicos diversos como negócios, anime, animais, notícias, finanças, jogos e outros
+2. http://code.google.com/apis/libraries/ (Google Libraries API: Bibliotecas do Google de Javascript bem documentadas)
 
 ## APRENDER JOGANDO
 1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
