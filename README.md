@@ -4,7 +4,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 
 ## ACESSIBILIDADE:
 
-1. https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b (como projetar acessibilidade para pessoas com deficiências como cegueira, dislexia, autismo, TDAH, e surdez).
+1. https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b (como projetar acessibilidade para pessoas com deficiências como cegueira, dislexia, autismo, TDAH, e surdez)...
 
 ## API
 1. https://github.com/public-apis/public-apis APIs gratuitas para usar em projetos e aplicativos. Tópicos diversos como negócios, anime, animais, notícias, finanças, jogos e outros
