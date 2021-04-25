@@ -213,6 +213,9 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 4. https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ - Como fazer um bom README?
 5. https://www.makeareadme.com/
 
+## TI
+
+https://web.digitalinnovation.one/articles/tudo-o-que-voce-precisa-saber-para-iniciar-na-area-da-ti?back=%2Farticles&page=1&order=oldest (Dicas para iniciar na área de TI)
 ## WEB DESIGN
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
