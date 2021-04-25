@@ -7,10 +7,12 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b (como projetar acessibilidade para pessoas com deficiências como cegueira, dislexia, autismo, TDAH, e surdez)...
 
 ## API
+
 1. https://github.com/public-apis/public-apis APIs gratuitas para usar em projetos e aplicativos. Tópicos diversos como negócios, anime, animais, notícias, finanças, jogos e outros
 2. http://code.google.com/apis/libraries/ (Google Libraries API: Bibliotecas do Google de Javascript bem documentadas)
 
 ## APRENDER JOGANDO
+
 1. https://br.codecombat.com/play (O CodeCombat ajuda todos a codificar em JavaScript ou Python, duas das linguagens de programação mais populares)
 2. https://code.org/minecraft (baseado no jogo Minecraft e utilizando o modo de programar do Scratch.)
 3. https://mastery.games/flexboxzombies Você é um guerreiro e deve derrotar zumbis com ordens que você escreve no código.
@@ -34,7 +36,6 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. http://fig.if.usp.br/~esdobay/c/c.pdf (guia para programação em linguagem C elaborado pelo Departamento de Física Geral - USP)
 2. http://www.krsantoro.xpg.com.br/academico/extensao/Apostilas/introdevcpp/node29.html (Apostila do debugger GDB para C)
 
-
 ## CANAIS NO YOUTUBE
 
 1. https://www.youtube.com/c/TopTutorial/videos (Top Tutorial)
@@ -44,6 +45,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 1. https://www.conventionalcommits.org/pt-br/v1.0.0/ (ensina de um jeito legal, a escrever as mensagens dos seus commits)
 
 ## Comunidades de Desenvolvimento de Software
+
 **ótima oportunidade para se atualizar em relação às demandas do mercado, ficar por dentro das novas tendências da tecnologia e conhecer pessoas novas que trabalham na área. (by Davi Pereira)**
 
 1. http://railsgirls.com/ Organiza eventos pelo mundo no intuito de incentivar mulheres a entrarem no ramo tecnológico. Fornecer ferramentas e uma comunidade que proporciona experiências no mundo da tecnologia. Nasceu na Finlândia, mas hoje em dia é uma comunidade global de voluntários sem fins lucrativos.
@@ -97,10 +99,10 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 3. https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/ (Os comandos mais utilizados)
 
 ## EDITORES DE CÓDIGO ONLINE
+
 _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível utilizar estes editores online_
 
-1.[https://codepen.io/](CodePen - comunidade online para testar e apresentar trechos de código HTML, CSS e JavaScript criados pelo usuário em ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar fragmentos de código, chamados de "canetas", e testá-los.)
-2.[https://codesandbox.io/](CodeSandbox - editor de código online e ferramenta de prototipagem que agiliza a criação e o compartilhamento de aplicativos da web.)
+1.[https://codepen.io/](CodePen - comunidade online para testar e apresentar trechos de código HTML, CSS e JavaScript criados pelo usuário em ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar fragmentos de código, chamados de "canetas", e testá-los.) 2.[https://codesandbox.io/](CodeSandbox - editor de código online e ferramenta de prototipagem que agiliza a criação e o compartilhamento de aplicativos da web.)
 
 ## ELEMENTOS E ATRIBUTOS PARA HTML
 
@@ -162,8 +164,8 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 6. https://egghead.io/ - Tutoriais curtos e focados para o desenvolvimento Front-End.
 7. http://www.javascript-tutorial.com.br/content-cat-1.html (Tutorial básico de Javascript)
 
-
 ## LEGISLAÇÃO
+
 1.  http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm - Lei Geral de Proteção de Dados - LGPD - **Lei nº 13.709, de 14 de agosto de 2018**
 2.  https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-pessoais-lgpd - Entenda sobre Dados Pessoais.
 
@@ -201,6 +203,12 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 7. https://www.youtube.com/playlist?list=PLzfUA2OOnk-j_j5PACbKmMr690I8DYSKl (Estudos de PHP com o Prof. Iury Gomes do IFTO)
 8. https://www.php.net/releases/8.0/en.php (PHP 8.0)
 
+## PL/SQL
+
+1. https://www.youtube.com/channel/UC_BUP1OFZENAXJIzzKEfWGg/videos (Aprenda PL/SQL1)
+2. https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r (Curso MySQL - Guanabara)
+3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
+
 ## REACT
 
 1. https://www.youtube.com/watch?v=OqMk-mPs6Dw&feature=youtu.be (REACT - Tutorial: Salvar dados em seu aplicativo com localStorage e sessionStorage)
@@ -215,7 +223,8 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 
 ## TI
 
-https://web.digitalinnovation.one/articles/tudo-o-que-voce-precisa-saber-para-iniciar-na-area-da-ti?back=%2Farticles&page=1&order=oldest (Dicas para iniciar na área de TI)
+1. https://web.digitalinnovation.one/articles/tudo-o-que-voce-precisa-saber-para-iniciar-na-area-da-ti?back=%2Farticles&page=1&order=oldest (Dicas para iniciar na área de TI)
+
 ## WEB DESIGN
 
 _(Em muitos países, prover acessibilidade para pessoas com necessidades especiais é uma disposição legal. Desenvolver com a preocupação de contemplar a acessibilidade é uma das características que diferencia um verdadeiro profissional web de um iniciante.)_
@@ -223,10 +232,8 @@ _(Em muitos países, prover acessibilidade para pessoas com necessidades especia
 1. https://pt2.slideshare.net/heraldo100/web-design-responsivo-e-adaptativo-html5css3 - Web Design RESPONSIVO e ADAPTATIVO
 2. https://www.maujor.com/tutorial/acessibilidade-na-html5.php - ACESSIBILIDADE
 
-
 ## Conhecimento Basico Necessário
 
 1. https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6 (Guia para ser DEV Back-End 2021 por Glaucia Lemos).
 2. https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted (o site StackOverflow Developer Survey com sua estimativa 2020 das linguagens mais importantes no ano)
 3. https://roadmap.sh/backend (o site roadmap.sh atualiza um guia do que precisamos saber para ser uma Pessoa Desenvolvedora Back-End.)
-
