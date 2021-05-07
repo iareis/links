@@ -209,6 +209,15 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 2. https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r (Curso MySQL - Guanabara)
 3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
 
+### Ambientes para testes SQL
+1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
+2. https://sqliteonline.com/ (suporta além de SQLite MariaDB e PostgreSQL , a pré tabela criada já é bem informativa).
+3. http://sqlfiddle.com/ (o mais completo, suporta uma grande variade, dentre eles: MySQL, SQLite, PostgreSQL (2 versões Oracle) e o Microsoft SQL Server).
+4. https://rextester.com/l/mysql_online_compiler
+5. https://www.tutorialspoint.com/execute_sql_online.php
+6. https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
+7. https://www.jdoodle.com/execute-sql-online/
+
 ## REACT
 
 1. https://www.youtube.com/watch?v=OqMk-mPs6Dw&feature=youtu.be (REACT - Tutorial: Salvar dados em seu aplicativo com localStorage e sessionStorage)
