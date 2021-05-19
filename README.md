@@ -169,6 +169,10 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 1.  http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm - Lei Geral de Proteção de Dados - LGPD - **Lei nº 13.709, de 14 de agosto de 2018**
 2.  https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-pessoais-lgpd - Entenda sobre Dados Pessoais.
 
+## LINUX
+
+1. http://focalinux.cipsga.org.br/gol.html - Guia Foca GNU/Linux
+
 ## MARKDOWN
 
 1. https://typora.io/ (Editor para markdown que mostra o resultado da edição durante a escrita. )
