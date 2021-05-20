@@ -28,8 +28,25 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 4. https://github.com/LorenzCK/OnTopReplica (OnTopReplica - permite uma “réplica” sempre visível em tempo real de uma janela de sua escolha, para Windows Vista, 7, 8 ou 10.)
 
 ## BANCO DE DADOS
-
 1. https://www.generatedata.com/ (Gerador de valores e dados fake para testes com bancos de dados)
+
+   ### ORACLE
+   1. https://www.devmedia.com.br/curso/curso-de-oracle/1456 (Curso de Oracle)
+
+   ### PL/SQL
+
+   1. https://www.youtube.com/channel/UC_BUP1OFZENAXJIzzKEfWGg/videos (Aprenda PL/SQL1)
+   2. https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r (Curso MySQL - Guanabara)
+   3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
+
+   ### Ambientes para testes SQL
+   1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
+   2. https://sqliteonline.com/ (suporta além de SQLite MariaDB e PostgreSQL , a pré tabela criada já é bem informativa).
+   3. http://sqlfiddle.com/ (o mais completo, suporta uma grande variade, dentre eles: MySQL, SQLite, PostgreSQL (2 versões Oracle) e o Microsoft SQL Server).
+   4. https://rextester.com/l/mysql_online_compiler
+   5. https://www.tutorialspoint.com/execute_sql_online.php
+   6. https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
+   7. https://www.jdoodle.com/execute-sql-online/
 
 ## C
 
@@ -206,21 +223,6 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 6. https://packagist.org/
 7. https://www.youtube.com/playlist?list=PLzfUA2OOnk-j_j5PACbKmMr690I8DYSKl (Estudos de PHP com o Prof. Iury Gomes do IFTO)
 8. https://www.php.net/releases/8.0/en.php (PHP 8.0)
-
-## PL/SQL
-
-1. https://www.youtube.com/channel/UC_BUP1OFZENAXJIzzKEfWGg/videos (Aprenda PL/SQL1)
-2. https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r (Curso MySQL - Guanabara)
-3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
-
-### Ambientes para testes SQL
-1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
-2. https://sqliteonline.com/ (suporta além de SQLite MariaDB e PostgreSQL , a pré tabela criada já é bem informativa).
-3. http://sqlfiddle.com/ (o mais completo, suporta uma grande variade, dentre eles: MySQL, SQLite, PostgreSQL (2 versões Oracle) e o Microsoft SQL Server).
-4. https://rextester.com/l/mysql_online_compiler
-5. https://www.tutorialspoint.com/execute_sql_online.php
-6. https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
-7. https://www.jdoodle.com/execute-sql-online/
 
 ## REACT
 
