@@ -32,6 +32,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 
    ### ORACLE
    1. https://www.devmedia.com.br/curso/curso-de-oracle/1456 (Curso de Oracle)
+   2. https://docs.oracle.com/cd/E11882_01/nav/portal_5.htm (Oracle Database Online Documentation 11g)
 
    ### PL/SQL
 
