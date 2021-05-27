@@ -38,6 +38,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
    1. https://www.youtube.com/channel/UC_BUP1OFZENAXJIzzKEfWGg/videos (Aprenda PL/SQL1)
    2. https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r (Curso MySQL - Guanabara)
    3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
+   4. https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store (SQL Exercises/The computer store)
 
    ### Ambientes para testes SQL
    1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
