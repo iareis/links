@@ -41,6 +41,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
    3. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILPD/GUID-4CBCE8D4-CF17-43BD-AAEF-C5D614A8040A.htm#BILUG779 (Funções no Oracle)
    4. https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store (SQL Exercises/The computer store)
    5. https://github.com/srikanthpragada/plsql (Exercícios e Exemplos)
+   6. https://docs.oracle.com/cd/E11882_01/nav/portal_5.htm (PL/SQL Tutorial)
 
    ### Ambientes para testes SQL
    1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
