@@ -148,6 +148,10 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 
 1. https://github.com/github/gitignore Coleção de .gitignore para filtrar o que é carregado.
 
+## GPX
+
+1. https://www.topografix.com/gpx_manual.asp#trk (GPX 1.0 Developer's Manual)
+
 ## HTTP
 
 1. https://tools.ietf.org/html/rfc2616#page-27 (Hypertext Transfer Protocol -- HTTP/1.1)
