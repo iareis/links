@@ -42,6 +42,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
    4. https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store (SQL Exercises/The computer store)
    5. https://github.com/srikanthpragada/plsql (Exercícios e Exemplos)
    6. https://docs.oracle.com/cd/E11882_01/nav/portal_5.htm (PL/SQL Tutorial)
+   7. https://github.com/mortenbra/alexandria-plsql-utils (Utilidades pL/SQL)
 
    ### Ambientes para testes SQL
    1. https://sqltest.net/ (bem simples, mas suporta MySQL e Oracle , além de possuir algumas dicas de comandos bem interessantes).
