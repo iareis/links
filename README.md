@@ -86,6 +86,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 8.  http://pt-br.html.net/tutorials/css/ (Tutorial CSS)
 9.  http://www.csszengarden.com/ (CSS Zen Garden)
 10. http://jigsaw.w3.org/css-validator/ (W3C CSS Validation Service - Serviço de validação de CSS)
+11. https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l (Another 100 CSS loaders for your next project)
 
 ## CC50:
 
