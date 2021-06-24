@@ -104,6 +104,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
 4. https://color.adobe.com/pt/create/color-wheel
 5. https://colourco.de/
 6. https://colorhunt.co/
+7. https://imagecolorpicker.com/pt-pt (Colhedor de Cores)
 
 ## DESAFIOS
 
