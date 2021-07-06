@@ -217,6 +217,7 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 1. https://github.com/EbookFoundation/free-programming-books - Muitos livros gratuitos de programação em diversos idiomas (**incluindo português**). Separados por tópicos.
 2. https://butecotecnologico.com.br/livros-gratuitos-data-science-setembro-2020/
 3. https://git-scm.com/book/pt-br/v2 (GIT Book)
+4. https://go.betrybe.com/ebook-dicas-de-carreira-para-devs?utm_source=newsletter&utm_medium=referral&utm_campaign=deschamps&utm_content=ebook_elton (Ebook gratuito “Dicas de Carreira para Devs” escrito por Elton Minetto)
 
 ## NGINX
 
