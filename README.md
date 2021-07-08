@@ -60,6 +60,7 @@ O intuito é recolher _Links interessantes de serem lembrados...!_
     ### Progress
     
     1.https://temptable.com.br/2016/10/progress-onde-encontrar-ajuda.html (Progress – Dicas para iniciantes)
+    2.http://4each.com.br/ (fórum brasileiro voltado para o universo progress, os membros são bem ativos e tendem a auxiliar nas duvidas com muita velocidade)
 
 ## C
 
