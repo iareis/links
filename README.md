@@ -225,7 +225,13 @@ _Não sendo possível utilizar, por exemplo o Visual Studio Code, é possível u
 3. https://git-scm.com/book/pt-br/v2 (GIT Book)
 4. https://go.betrybe.com/ebook-dicas-de-carreira-para-devs?utm_source=newsletter&utm_medium=referral&utm_campaign=deschamps&utm_content=ebook_elton (Ebook gratuito “Dicas de Carreira para Devs” escrito por Elton Minetto)
 
-## NGINX
+## MENDIX
+
+1. https://academy.mendix.com/link/path (Academia Mendix)
+2. https://www.youtube.com/watch?v=uLSRw_L2bZo (Apresentação)
+3. https://www.youtube.com/user/erickles (Curso Mendix Ericles Youtube)
+ 
+# NGINX
 
 1. http://blog.ti.lemaf.ufla.br/2016/07/29/desvendando-o-nginx-parte-1/
 
